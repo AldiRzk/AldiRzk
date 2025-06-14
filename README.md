@@ -1,5 +1,6 @@
 ## Hi there 👋 I'am Aldi Rizkianto
 ![Bochi](img/bocchi-the-rock-bocchi.gif)
+
 💻 Programmer | ⚙️ Tech Explorer | 🎯 Problem Solver
 
 ### 🛠 Tech Stack
